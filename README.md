@@ -1,1 +1,1 @@
-Random ideas in my foundational view of algorithm
+Late night hacking with basic algorithms. Like yoga before bed. But for the mind.
